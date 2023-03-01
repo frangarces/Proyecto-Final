@@ -1,15 +1,28 @@
-p {
-    color: red
-}
-h1 { font-family: 'Roboto', sans-serif;
-    color: blue
-}
-section {
-    width: 300px;
-    border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
+ h1{
+    font-family: 'Climate Crisis', cursive; background-color: aqua;
   }
 
+h2{font-family: 'Gloock', serif;
+}
 
- #ggg {color: aqua;}
+#perfil{
+    padding: 0px 100px 0px 100px;
+margin-top: 80px;font-size: x-large}
+#Formación{
+    padding: 0px 100px 0px 85px;
+margin-top: 80px;font-size: x-large}
+
+li{font-family: 'Nunito', sans-serif;font-size: large;
+    padding: 0px 100px 0px 100px;}
+
+#experiencia{padding: 0px 100px 0px 85px;
+    margin-top: 80px;font-size: x-large}
+
+#habilidades{padding: 0px 100px 0px 85px;
+    margin-top: 80px;font-size: x-large
+}
+p{font-family: 'Nunito', sans-serif;font-size: large;
+    padding: 0px 100px 0px 100px;}
+
+    #per{font-size: x-large}
+
